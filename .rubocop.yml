@@ -1,0 +1,6 @@
+---
+inherit_gem:
+  voxpupuli-rubocop: rubocop.yml
+
+RSpec/DescribeClass:
+  Enabled: false
